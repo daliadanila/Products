@@ -1,5 +1,5 @@
 # Products
-iOS project implemented using MVVM and layered architecture.
+📱iOS project implemented using MVVM for presentation and layered architecture to separate concerns.
 Presentation Layer -> Domain Layer <- Data Layer
 
 ## Requirements
