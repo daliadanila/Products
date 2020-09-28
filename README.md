@@ -10,7 +10,7 @@ Presentation Layer -> Domain Layer <- Data Layer
 
 ## Concepts used
 
-- MVVM
+- Clean architecture + MVVM
 - Dependency injection
 - Data binding using Observable
 - Flow Coordinator
